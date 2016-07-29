@@ -1,7 +1,7 @@
 # Site
 title:              单车
 bio:                '如果死了就没有未来了。如果不拼命，同样无法开创未来。'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+description:        "落后就要挨打，肚子饿了就要吃放。"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   dancheit
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -38,18 +38,18 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
+twitter:            unregistered
 facebook:           profile.php?id=100010623168259
 github:             dancheIT
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+instagram:          unregistered
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-steam:              username
+steam:              unregistered
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username
